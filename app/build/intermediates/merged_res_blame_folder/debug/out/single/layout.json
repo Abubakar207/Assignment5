@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Abubakar\\Assignment4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_weather_info.xml",
+        "source": "C:\\Users\\Abubakar\\Assignment4\\app\\src\\main\\res\\layout\\activity_weather_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abubakar\\Assignment4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_city_list.xml",
+        "source": "C:\\Users\\Abubakar\\Assignment4\\app\\src\\main\\res\\layout\\fragment_city_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abubakar\\Assignment4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tab.xml",
+        "source": "C:\\Users\\Abubakar\\Assignment4\\app\\src\\main\\res\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abubakar\\Assignment4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_city.xml",
+        "source": "C:\\Users\\Abubakar\\Assignment4\\app\\src\\main\\res\\layout\\fragment_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abubakar\\Assignment4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_tab.xml",
+        "source": "C:\\Users\\Abubakar\\Assignment4\\app\\src\\main\\res\\layout\\activity_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abubakar\\Assignment4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Abubakar\\Assignment4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abubakar\\Assignment4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_weather.xml",
+        "source": "C:\\Users\\Abubakar\\Assignment4\\app\\src\\main\\res\\layout\\fragment_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abubakar\\Assignment4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_weather_list.xml",
+        "source": "C:\\Users\\Abubakar\\Assignment4\\app\\src\\main\\res\\layout\\fragment_weather_list.xml"
+    }
+]

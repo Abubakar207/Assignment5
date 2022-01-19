@@ -1,0 +1,58 @@
+com/example/assignment_4/BuildConfig.java
+ com.example.assignment_4.BuildConfig
+com/example/assignment_4/Room/DaoClass.java
+ com.example.assignment_4.Room.DaoClass
+com/example/assignment_4/TabAct.java
+ com.example.assignment_4.TabAct
+com/example/assignment_4/Room/Weather.java
+ com.example.assignment_4.Room.Weather
+com/example/assignment_4/Room/City.java
+ com.example.assignment_4.Room.City
+com/example/assignment_4/ui/main/PlaceholderFragment.java
+ com.example.assignment_4.ui.main.PlaceholderFragment
+ com.example.assignment_4.ui.main.PlaceholderFragment$1
+com/example/assignment_4/ui/main/PageViewModel.java
+ com.example.assignment_4.ui.main.PageViewModel
+ com.example.assignment_4.ui.main.PageViewModel$1
+com/example/assignment_4/Room/AppDatabase.java
+ com.example.assignment_4.Room.AppDatabase
+com/example/assignment_4/placeholder/PlaceholderContent.java
+ com.example.assignment_4.placeholder.PlaceholderContent
+ com.example.assignment_4.placeholder.PlaceholderContent$PlaceholderItem
+com/example/assignment_4/MyItemRecyclerViewAdapter2.java
+ com.example.assignment_4.MyItemRecyclerViewAdapter2
+ com.example.assignment_4.MyItemRecyclerViewAdapter2$ViewHolder
+com/example/assignment_4/databinding/FragmentTabBinding.java
+ com.example.assignment_4.databinding.FragmentTabBinding
+com/example/assignment_4/databinding/ActivityWeatherInfoBinding.java
+ com.example.assignment_4.databinding.ActivityWeatherInfoBinding
+com/example/assignment_4/databinding/FragmentCityListBinding.java
+ com.example.assignment_4.databinding.FragmentCityListBinding
+com/example/assignment_4/databinding/FragmentWeatherBinding.java
+ com.example.assignment_4.databinding.FragmentWeatherBinding
+com/example/assignment_4/ui/main/SectionsPagerAdapter.java
+ com.example.assignment_4.ui.main.SectionsPagerAdapter
+com/example/assignment_4/FragmentCity.java
+ com.example.assignment_4.FragmentCity
+com/example/assignment_4/FragmentWeather.java
+ com.example.assignment_4.FragmentWeather
+com/example/assignment_4/databinding/ActivityTabBinding.java
+ com.example.assignment_4.databinding.ActivityTabBinding
+com/example/assignment_4/databinding/ActivityMainBinding.java
+ com.example.assignment_4.databinding.ActivityMainBinding
+com/example/assignment_4/databinding/FragmentCityBinding.java
+ com.example.assignment_4.databinding.FragmentCityBinding
+com/example/assignment_4/databinding/FragmentWeatherListBinding.java
+ com.example.assignment_4.databinding.FragmentWeatherListBinding
+com/example/assignment_4/MyItemRecyclerViewAdapter.java
+ com.example.assignment_4.MyItemRecyclerViewAdapter
+ com.example.assignment_4.MyItemRecyclerViewAdapter$ViewHolder
+com/example/assignment_4/MainActivity.java
+ com.example.assignment_4.MainActivity
+ com.example.assignment_4.MainActivity$1
+ com.example.assignment_4.MainActivity$1$1
+ com.example.assignment_4.MainActivity$1$2
+com/example/assignment_4/WeatherInfo.java
+ com.example.assignment_4.WeatherInfo
+ com.example.assignment_4.WeatherInfo$1
+ com.example.assignment_4.WeatherInfo$2

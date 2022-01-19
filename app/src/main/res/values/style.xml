@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorBackground">@color/windowBackground</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        //apply Button style
+        <item name="android:editTextStyle">@style/editTextStyle</item>
+    </style>
+
+    <style name="editTextStyle" parent="@style/Widget.AppCompat.EditText">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+    </style>
+
+    <color name="colorPrimaryDark" />
+    <color name="colorPrimary" />
+    <color name="windowBackground" />
+    <color name="textColor" />
+    <color name="colorAccent" />
+    <color name="colorWhite" />
+</resources>
